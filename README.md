@@ -1,4 +1,4 @@
-# SlackWeather
+# Slack-WeatherForecast
 Used for a "slash command" in Slack. Sends the weather forecast from openweathermap.org to a Slack channel.<BR>
 <BR>
 Usage:<BR>
